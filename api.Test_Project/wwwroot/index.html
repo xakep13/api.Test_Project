@@ -45,6 +45,16 @@
             });
         }
 
+        function GetAllBoos() { //function from template
+            $.ajax({
+                method: "GET",
+                url: '/api/book/?temp={"Task": "GetBooks"}',
+                success: function (data) {
+                console.log(data);
+                }
+            });
+        }
+
         function GetBook(id) {
             $.ajax({
                 url: '/api/book/'+id,
@@ -144,6 +154,8 @@
         })
 
         GetBooks();
+        GetAllBoos();
+
     </script>
 </body>
 </html>

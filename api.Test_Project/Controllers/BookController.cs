@@ -40,6 +40,15 @@ namespace api.Test_Project.Controllers
             return new ObjectResult(book);
         }
 
+        // POST api/book/?temp=
+        [HttpGet("{temp}")]
+        public IActionResult Get(Command temp) ////function from template
+        {
+            if(temp.Task == "GetBooks")
+                return new ObjectResult(new {Books = db.Books.ToList() });
+            return BadRequest();
+        }
+
         // POST api/book
         [HttpPost]
         public IActionResult Post([FromBody]Book book)
@@ -84,6 +93,6 @@ namespace api.Test_Project.Controllers
             db.Books.Remove(book);
             db.SaveChanges();
             return Ok(book);
-        }
+        } 
     }
 }
