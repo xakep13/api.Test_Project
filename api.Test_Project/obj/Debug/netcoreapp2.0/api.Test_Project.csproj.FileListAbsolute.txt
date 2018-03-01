@@ -1,0 +1,11 @@
+C:\Users\unopcpavilion\Source\Repos\api.Test_Project\api.Test_Project\bin\Debug\netcoreapp2.0\api.Test_Project.deps.json
+C:\Users\unopcpavilion\Source\Repos\api.Test_Project\api.Test_Project\bin\Debug\netcoreapp2.0\api.Test_Project.runtimeconfig.json
+C:\Users\unopcpavilion\Source\Repos\api.Test_Project\api.Test_Project\bin\Debug\netcoreapp2.0\api.Test_Project.runtimeconfig.dev.json
+C:\Users\unopcpavilion\Source\Repos\api.Test_Project\api.Test_Project\bin\Debug\netcoreapp2.0\api.Test_Project.dll
+C:\Users\unopcpavilion\Source\Repos\api.Test_Project\api.Test_Project\bin\Debug\netcoreapp2.0\api.Test_Project.pdb
+C:\Users\unopcpavilion\Source\Repos\api.Test_Project\api.Test_Project\obj\Debug\netcoreapp2.0\api.Test_Project.csprojResolveAssemblyReference.cache
+C:\Users\unopcpavilion\Source\Repos\api.Test_Project\api.Test_Project\obj\Debug\netcoreapp2.0\api.Test_Project.csproj.CoreCompileInputs.cache
+C:\Users\unopcpavilion\Source\Repos\api.Test_Project\api.Test_Project\obj\Debug\netcoreapp2.0\api.Test_Project.AssemblyInfoInputs.cache
+C:\Users\unopcpavilion\Source\Repos\api.Test_Project\api.Test_Project\obj\Debug\netcoreapp2.0\api.Test_Project.AssemblyInfo.cs
+C:\Users\unopcpavilion\Source\Repos\api.Test_Project\api.Test_Project\obj\Debug\netcoreapp2.0\api.Test_Project.dll
+C:\Users\unopcpavilion\Source\Repos\api.Test_Project\api.Test_Project\obj\Debug\netcoreapp2.0\api.Test_Project.pdb
